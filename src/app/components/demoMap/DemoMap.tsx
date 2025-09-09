@@ -47,7 +47,7 @@ const DemoMap: React.FC = () => {
             <span>
               {viewMode === 'tree' 
                 ? 'Haz clic en cualquier área para explorar su estructura interna'
-                : 'Vista de grafo simplificada - arrastra para explorar'
+                : 'Vista de grafo - arrastra para explorar'
               }
             </span>
           </div>
