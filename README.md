@@ -38,7 +38,7 @@ Una aplicación completa para visualizar estructuras organizacionales con **dobl
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/organizational-graph.git
+git clone https://github.com/rsilloca/atlas-org-live-map.git
 
 # Navegar al directorio
 cd organizational-graph
@@ -95,14 +95,6 @@ src/app/
 | `area` | 🏗️ | División o área de negocio |
 | `subarea` | 👥 | Subdivisión o departamento |
 | `team` | ⚡ | Equipo de trabajo específico |
-
-## Guía para levantar el proyecto
-
-1. Clona el proyecto
-2. Abre el proyecto en tu editor de código preferido
-3. En la consola de comandos ejecuta **npm install**
-4. En la consola de comandos ejecuta **npm start**
-5. ¡Ya puedes probarlo!
 
 ### Link de previsualización
 
